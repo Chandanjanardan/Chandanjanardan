@@ -1,13 +1,11 @@
-### Hi there 👋
-
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*WFRNSZBO45DyjsXRFqmHqg.png)]()
+[![MasterHead]
 <h1 align="center">Hi 👋, I'm Chandan Yadav</h1>
 <h3 align="center">A passionate JavaScript developer from India</h3>
 <img align="right" alt= "coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*WFRNSZBO45DyjsXRFqmHqg.png"
 
 - 🌱 I’m currently learning **Hero vired Fullstack course**
 
-- 💬 Ask me about **React js ,JavaScript, Node js**
+- 💬 Ask me about **React js , JavaScript, Node js**
 
 - 📫 How to reach me **00chandan95@gmail.com**
 
