@@ -1,4 +1,4 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/294/834/442/reactjs-facebook-javascript-minimalism-wallpaper-preview.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Chandan Yadav</h1>
 <h3 align="center">A passionate JavaScript developer from India</h3>
 <img align="right" alt= "coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*WFRNSZBO45DyjsXRFqmHqg.png"
