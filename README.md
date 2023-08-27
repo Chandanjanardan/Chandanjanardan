@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React js , JavaScript, Node js**
 
-- 📫 How to reach me email **00chandan95@gmail.com**
+- 📫 How to reach me email **chandanyadav.dev@gmail.com**
 - 📫 How to reach my phone **+919209339963**
 
 - ⚡ Fun fact **Developed a fast commerce website with 2500+ orders and 500+ users**
