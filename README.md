@@ -3,11 +3,11 @@
 <h3 align="center">A passionate JavaScript developer from India</h3>
 <img align="right" alt= "coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*WFRNSZBO45DyjsXRFqmHqg.png"
 
-- 🌱 I’m currently learning **Hero vired Fullstack course**
+- 🌱 I’m a FullStack MERN developer**
 
-- 💬 Ask me about **React js , JavaScript, Node js**
+- 💬 Ask me about **React js, JavaScript, Node js**
 
-- 📫 How to reach me email **chandanyadav.dev@gmail.com**
+- 📫 How to reach me email **00chandan95@gmail.com**
 - 📫 How to reach my phone **+919209339963**
 
 - ⚡ Fun fact **Developed a fast commerce website with 2500+ orders and 500+ users**
